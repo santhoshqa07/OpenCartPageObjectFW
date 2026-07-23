@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9269ce05-1711-473f-9b03-ee3342902c5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/OpenCartPageObjectFW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/logindata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/logindata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/logindata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_user_registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000013727113" />
+      <entry key="S5" value="1.001057070266307" />
+      <entry key="S10" value="1.101445897821483" />
+      <entry key="S30" value="3.1582449009735782" />
+      <entry key="S60" value="5.656505663728461" />
+      <entry key="M2" value="8.029311951645386" />
+      <entry key="M5" value="11.505383007231199" />
+      <entry key="M10" value="15.52550613343691" />
+      <entry key="M15" value="18.808254549373494" />
+      <entry key="M30" value="29.533760397164027" />
+      <entry key="H1" value="50.96601745824925" />
+      <entry key="H2" value="76.79799403320264" />
+      <entry key="H4" value="97.68740791933932" />
+      <entry key="D1" value="121.39208343132772" />
+      <entry key="W1" value="126.17903928347785" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.2275149860314424E-286" />
+      <entry key="S2" value="3.863270863091169E-72" />
+      <entry key="S5" value="2.721335351817044E-29" />
+      <entry key="S10" value="5.2166419771890045E-15" />
+      <entry key="S30" value="1.7343244388735797E-5" />
+      <entry key="S60" value="0.004164522108085846" />
+      <entry key="M2" value="0.06453310861941987" />
+      <entry key="M5" value="0.33412812560119415" />
+      <entry key="M10" value="0.5780381696749742" />
+      <entry key="M15" value="0.6939119151169149" />
+      <entry key="M30" value="0.8330137544584209" />
+      <entry key="H1" value="0.912695871831587" />
+      <entry key="H2" value="0.9553511772283461" />
+      <entry key="H4" value="0.977420675670587" />
+      <entry key="D1" value="0.9962008782226017" />
+      <entry key="W1" value="0.9994563825605659" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726549474122855" />
+      <entry key="MS500" value="0.9944701686732144" />
+      <entry key="S2" value="0.9986146674720112" />
+      <entry key="S5" value="1.0005021855288678" />
+      <entry key="S10" value="1.1011438850771085" />
+      <entry key="S30" value="3.157993211130197" />
+      <entry key="S60" value="5.660233233188929" />
+      <entry key="M2" value="8.09210474373623" />
+      <entry key="M5" value="11.836131148699485" />
+      <entry key="M10" value="16.10061488094006" />
+      <entry key="M15" value="19.4997717617099" />
+      <entry key="M30" value="30.365129054466838" />
+      <entry key="H1" value="51.87758169122772" />
+      <entry key="H2" value="77.75262481614611" />
+      <entry key="H4" value="98.66441151910209" />
+      <entry key="D1" value="122.3882046539046" />
+      <entry key="W1" value="127.17848400272082" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GZpL7X095IvYPiuQ8FU0P3YgXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Automation/OpenCartPageObjectFW/utilities&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Automation\OpenCartPageObjectFW\utilities" />
+      <recent name="C:\Automation\OpenCartPageObjectFW\pages" />
+      <recent name="C:\Automation\OpenCartPageObjectFW\testdata" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9269ce05-1711-473f-9b03-ee3342902c5b" name="Changes" comment="" />
+      <created>1784188886441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784188886441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
